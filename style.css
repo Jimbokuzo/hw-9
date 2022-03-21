@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(53, 72, 112);
+}
+table{
+    margin: auto;
+    width: 500px;
+    background: gray;
+}
+tr{
+    width: 100%;
+    height: 50px;
+}
+td{
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+.id{
+    width: 50px;
+    height: 50px;
+}
+.first_name{
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+}
+.last_name{
+    width: 100px;
+    height: 50px;
+}
+.email{
+    width: 250px;
+    height: 50px;
+}
+.hide{
+    background: gray;
+}
+.show{
+    background: yellow;
+}
